@@ -1,0 +1,1 @@
+Aqui vocês irão encontrar as anotações que fiz durante a aula de Introdução ao Git e ao GitHub. As anotações foram feitas de maneira simples, priorizando uma forma que ajudassem o meu entendimento sobre o conteúdo. Por isso as explicações podem estar meio confusas. Conforme o avanço do meu conhecimento, irei atualizar meus comentários para que fiquem mais claros e didáticos. 
