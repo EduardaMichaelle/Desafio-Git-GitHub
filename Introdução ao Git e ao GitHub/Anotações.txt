@@ -1,0 +1,5 @@
+OBJETOS INTERNOS DO GIT:
+
+Blobs → objeto que contém metadados do Git (ex: tipo do objeto, tamanho da string, tamanho do arquivo e etc.)
+Trees → armazenam e apontam para tipos de Blobs e Commits diferentes. Guarda o nome do arquivo, diferente do Blob que só guarda o sha1. Também podem apontar para outras árvores (Trees). 
+Commits → aponta para uma árvore, aponta para um “parente”, ou seja, o último commit realizado antes dele, aponta para o autor e aponta para uma mensagem também. 

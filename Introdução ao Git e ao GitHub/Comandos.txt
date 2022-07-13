@@ -1,0 +1,28 @@
+COMANDOS NO PROMPT:
+
+cd → para navegar entre pastas
+cd.. → para voltar à pasta anterior
+dir → listar 
+mkdir → criar uma pasta 
+del → deleta documentos
+rmdir → deleta uma pasta inteira com tudo o que tem dentro
+cls → limpar tela
+Tecla TAB → completa palavras 
+echo → imprime no terminal uma frase (como um printf) 
+
+COMANDOS NO GIT:
+
+openssl sha1 → para ver o código criptografado (conjunto identificador de 40 caracteres)
+ls → listar 
+cat → visualizar o conteúdo de uma chave 
+pwd → mostra o caminho completo que você está
+ls -a → lista arquivos ocultos
+git init → cria a pasta .git/ além de inicializar um repositório.
+git add NomeDoArquivo → move um arquivo de Untracked para Staged. Um arquivo em Staged está se preparando para um commit. 
+git add * → move todas as alterações feitas no repositório. 
+git status → ajuda a monitorar o status dos arquivos
+mv → para mover um arquivo de lugar 
+git commit -m “msg aqui” → criação do objeto contendo os arquivos que antes estavam em Staged. 
+git push origin master → empurra o repositório para um local remoto (no nosso caso, o GithHub). 
+git pull origin master → puxa o repositório do local remoto para o local (sua máquina).
+git clone URLaqui → clona um repositório de um local remoto para sua máquina. 
