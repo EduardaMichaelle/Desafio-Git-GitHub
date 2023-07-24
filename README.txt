@@ -1,1 +1,3 @@
 Aqui vocês vão encontrar as anotações que fiz durante a aula de Introdução ao Git e ao GitHub. As anotações foram feitas de maneira simples, priorizando o meu entendimento sobre o conteúdo (por isso podem estar meio confusas). Conforme avanço no conteúdo, vou atualizando meus comentários para que fiquem mais claros e didáticos. 
+
+Here you will find the notes I took during the Introduction to Git and GitHub class. The notes were made in a simple way, prioritizing my understanding of the content (so they can be a little confusing). As I progress in the content, I will update my comments to make them clearer and more didactic.
